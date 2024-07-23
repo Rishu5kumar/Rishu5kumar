@@ -9,7 +9,9 @@
 <!-- Animated GIF -->
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/348324/screenshots/11258557/media/d192d24cf681071d4b68b526290e8244.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishu5kumar&label=Profile%20views&color=0e75b6&style=flat" alt="rishu5kumar" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=rishu5kumar&label=Profile%20views&color=0e75b6&style=flat" alt="rishu5kumar" />
+</p>
 
 - 🌱 I’m currently learning **Machine Learning**
 
@@ -60,6 +62,19 @@
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
   </a>
+</p>
+
+<h3 align="left">Achievements:</h3>
+<!-- <p align="left">
+  <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16YzVpdWYxMDA0ODBma3V6dTBxYnpxOCIsImVkaXRzIjp7InJvdGF0ZSI6bnVsbH19" alt="Hacktoberfest 2023" width="100" height="100"> -->
+<p align="left">
+  <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16YzVpdWYxMDA0ODBma3V6dTBxYnpxOCIsImVkaXRzIjp7InJvdGF0ZSI6bnVsbH19" alt="Hacktoberfest 2023" width="100" height="100">
+  <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16MW5neWQwMjM3bTN6am50c2V6Yng2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" width="100" height="100">
+  <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG15cWdyMGUwMjI1enV6amdxZmYwbmhsIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" width="100" height="100">
+  <img src="https://assets.holopin.io/hf2023levels/level0-blue-0-0-0.webp" alt="Hacktoberfest 2023" width="100" height="100">
+
+
+  <!-- You can add more badges here -->
 </p>
 
 <p>
