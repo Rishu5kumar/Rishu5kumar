@@ -1,90 +1,100 @@
-<h1 align="center">Hi 👋, I'm Rishu Kumar</h1>
-<h3 align="center">A passionate Python developer and Data Science Enthusiast from India</h3>
+<h1 align="center">Hi 👋, I'm <span style="color:#ff6347;">Rishu Kumar</span></h1>
+<h3 align="center">🚀 Python Developer | Data Science Enthusiast | AI Explorer 🇮🇳</h3>
 
-<!-- Profile Trophy -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rishu5kumar" alt="GitHub Profile Trophy">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=435&lines=Welcome+to+my+GitHub!;I'm+a+Data+Science+Enthusiast;Python+%7C+ML+%7C+NLP+%7C+DL+%7C" alt="Typing SVG" />
 </p>
 
-<!-- Animated GIF -->
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/348324/screenshots/11258557/media/d192d24cf681071d4b68b526290e8244.gif">
+---
 
-<p align="left"> 
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=rishu5kumar&label=Profile%20views&color=0e75b6&style=flat" alt="rishu5kumar" />
 </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+---
 
-- 📫 How to reach me **kumar05.rishu@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/rishu05" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishu05" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/rishukumar05" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rishukumar05" height="30" width="40" />
-  </a>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rishu5kumar&theme=tokyonight&title=Followers,Stars,Fork,Commit,PullRequest,Issues,Repositories,Contributions,MultiLanguage&no-bg=true&margin-w=15&row=3&column=3" alt="trophies">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
-  </a> 
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-  </a>
-</p>
+---
 
-<h3 align="left">Achievements:</h3>
-<!-- <p align="left">
-  <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16YzVpdWYxMDA0ODBma3V6dTBxYnpxOCIsImVkaXRzIjp7InJvdGF0ZSI6bnVsbH19" alt="Hacktoberfest 2023" width="100" height="100"> -->
-<p align="left">
-  <img src="https://github.com/Rishu5kumar/Rishu5kumar/blob/main/unstop.png?raw=true" width="100" height="100">
-  <img src="https://github.com/Rishu5kumar/Rishu5kumar/blob/main/badge.png?raw=true" width="100" height="100">
-  <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16YzVpdWYxMDA0ODBma3V6dTBxYnpxOCIsImVkaXRzIjp7InJvdGF0ZSI6bnVsbH19" width="100" height="100">
-  <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16MW5neWQwMjM3bTN6am50c2V6Yng2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" width="100" height="100">
-  <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG15cWdyMGUwMjI1enV6amdxZmYwbmhsIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" width="100" height="100">
-  <img src="https://assets.holopin.io/hf2023levels/level0-blue-0-0-0.webp" alt="Hacktoberfest 2023" width="100" height="100">
-  <!-- You can add more badges here -->
-</p>
+<img align="right" alt="Coding" width="420" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+
+### 👨‍💻 About Me
+
+- 🌱 Currently learning: **Machine Learning & GenAI**
+- 🎯 Passionate about solving real-world problems with data
+- 💬 Ask me about: Python, Streamlit, ML, DL, RAG
+- 📫 Reach me: **kumar05.rishu@gmail.com**
+
+---
+
+### 🌐 Connect with Me
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishu5kumar&show_icons=true&locale=en&layout=compact" alt="rishu5kumar" />
+  <a href="https://linkedin.com/in/rishu05" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/rishukumar05" target="_blank"><img src="https://img.shields.io/badge/Hackerrank-%232EC866.svg?&style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rishu5kumar&show_icons=true&locale=en" alt="rishu5kumar" />
+---
+
+### 🧰 Tech Stack & Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishu5kumar&" alt="rishu5kumar" />
+---
+
+### 🏅 Achievements & Badges
+
+<p align="left">
+  <img src="https://github.com/Rishu5kumar/Rishu5kumar/blob/main/unstop.png?raw=true" width="100" />
+  <img src="https://github.com/Rishu5kumar/Rishu5kumar/blob/main/badge.png?raw=true" width="100" />
+  <img src="https://assets.holopin.io/hf2023levels/level0-blue-0-0-0.webp" width="100" />
+  <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16YzVpdWYxMDA0ODBma3V6dTBxYnpxOCIsImVkaXRzIjp7InJvdGF0ZSI6bnVsbH19" width="100" />
+  <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG15cWdyMGUwMjI1enV6amdxZmYwbmhsIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" width="100" />
 </p>
+
+---
+
+### 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rishu5kumar&show_icons=true&theme=github_dark&count_private=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishu5kumar&layout=compact&theme=github_dark&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishu5kumar&theme=dark&hide_border=true" width="90%" />
+</p>
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishu5kumar&theme=react-dark&area=true&hide_border=true" />
+</p>
+
+---
+
+### 🧭 Dev Journey Timeline
+
+```mermaid
+timeline
+    title Developer Journey
+    2022 : Started learning Python
+    2023 : Completed Udemy ML course, started NLP
+    2024 : Completed DL, Built RAG Chatbot, Flask APIs, and more
+    2025 : Intern @ Haber & IIT Ropar
