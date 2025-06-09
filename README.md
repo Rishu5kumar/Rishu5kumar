@@ -97,4 +97,4 @@ timeline
     2022 : Started learning Python
     2023 : Completed Udemy ML course, started NLP
     2024 : Completed DL, Built RAG Chatbot, Flask APIs, and more
-    2025 : Intern @ Haber & IIT Ropar
+    2025 : Interned at IIT Ropar and currently in Haber
