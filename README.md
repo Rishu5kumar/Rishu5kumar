@@ -56,8 +56,6 @@
 
 ---
 
-### 🏅 Achievements & Badges
-
 <p align="left">
   <img src="https://github.com/Rishu5kumar/Rishu5kumar/blob/main/unstop.png?raw=true" width="100" />
   <img src="https://github.com/Rishu5kumar/Rishu5kumar/blob/main/badge.png?raw=true" width="100" />
