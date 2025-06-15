@@ -87,11 +87,11 @@
 
 ---
 
-### 🧭 Dev Journey Timeline
+### 🧭 Timeline
 
 ```mermaid
 timeline
-    title Developer Journey
+    title My Journey
     2022 : Started learning Python
     2023 : Completed Udemy ML course, started NLP
     2024 : Completed DL, Built RAG Chatbot, Flask APIs, and more
