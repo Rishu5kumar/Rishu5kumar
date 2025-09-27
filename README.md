@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm <span style="color:#ff6347;">Rishu Kumar</span></h1>
-<h3 align="center">🚀 Python Developer | Data Science Enthusiast | AI Explorer 🇮🇳</h3>
+<h3 align="center">🚀Learning • Building • Exploring | Data Scientist in the Making 🇮🇳</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=435&lines=Welcome+to+my+GitHub!;I'm+a+Data+Science+Enthusiast;Python+%7C+ML+%7C+NLP+%7C+DL+%7C" alt="Typing SVG" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Data+Science+Enthusiast+and+AI+Explorer;Python+%7C+ML+%7C+DL+%7C+NLP+%7C+LangChain" alt="Typing SVG" />
+</div>
 
 ---
 
@@ -42,17 +42,46 @@
 ### 🧰 Tech Stack & Tools
 
 <p align="left">
+  <!-- Core Languages & Tools -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" />
+
+  <!-- Visualization -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40" />
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="80" />
+  <img src="https://avatars.githubusercontent.com/u/5997976?s=200&v=4" width="40"/>
+
+  <!-- Deep Learning -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="40" />
+
+  <!-- Notebook -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40" />
+
+  <!-- Databases -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" />
+
+  <!-- Cloud -->
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" />
+
+  <!-- Deployment / Apps -->
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="40" />
+
+  <!-- OS -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" />
+
+  <!-- Web Dev-->
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/flask.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" />
 </p>
+
 
 ---
 
@@ -93,6 +122,6 @@
 timeline
     title My Journey
     2022 : Started learning Python
-    2023 : Completed Udemy ML course, started NLP
-    2024 : Completed DL, Built RAG Chatbot, Flask APIs, and more
-    2025 : Interned at IIT Ropar and currently in Haber
+    2023 : Completed ML, Made Flask and Streamlit APIs, Started NLP
+    2024 : Completed DL, Read LangChain, Built RAG Chatbot
+    2025 : Presented a paper at an International Conference, Interned at IIT Ropar and currently in Haber
