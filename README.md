@@ -23,9 +23,9 @@
 
 ### 👨‍💻 About Me
 
-- 🌱 Currently learning: **Machine Learning & GenAI**
+- 🌱 Currently Exploring: **LangGraph & AgenticAI**
 - 🎯 Passionate about solving real-world problems with data
-- 💬 Ask me about: Python, Streamlit, ML, DL, RAG
+- 💬 Ask me about: Python, Streamlit, ML, DL, NLP, RAG
 - 📫 Reach me: **kumar05.rishu@gmail.com**
 
 ---
