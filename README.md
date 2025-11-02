@@ -86,6 +86,7 @@
 ---
 
 <p align="left">
+  <img src="https://github.com/Rishu5kumar/Rishu5kumar/blob/main/download.png?raw=true" width="100" />
   <img src="https://github.com/Rishu5kumar/Rishu5kumar/blob/main/unstop.png?raw=true" width="100" />
   <img src="https://github.com/Rishu5kumar/Rishu5kumar/blob/main/badge.png?raw=true" width="100" />
   <img src="https://assets.holopin.io/hf2023levels/level0-blue-0-0-0.webp" width="100" />
